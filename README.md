@@ -13,3 +13,11 @@ How to customize what goes inside the <head> for each page.
 How to create a reusable React component which is styled using CSS Modules.
 How to add global CSS in pages/\_app.js.
 Some useful tips for styling in Next.js.
+
+# Pre-rendering and Data Fetching
+
+Next.js’ pre-rendering feature.
+The two forms of pre-rendering: Static Generation and Server-side Rendering.
+Static Generation with data, and without data.
+getStaticProps and how to use it to import external blog data into the index page.
+Some useful information on getStaticProps.
