@@ -30,3 +30,9 @@ How to render markdown using remark.
 How to pretty-print date strings.
 How to link to a page with dynamic routes.
 Some useful information on dynamic routes.
+
+# API and Deploying Next.js App
+
+How to deploy your Next.js app to Vercel.
+The DPS Workflow: Develop, Preview, and Ship.
+How to deploy your Next.js app to your own hosting provider.
