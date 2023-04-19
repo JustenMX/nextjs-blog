@@ -21,3 +21,12 @@ The two forms of pre-rendering: Static Generation and Server-side Rendering.
 Static Generation with data, and without data.
 getStaticProps and how to use it to import external blog data into the index page.
 Some useful information on getStaticProps.
+
+# Dynamic Routes
+
+How to statically generate pages with dynamic routes using getStaticPaths.
+How to write getStaticProps to fetch the data for each blog post.
+How to render markdown using remark.
+How to pretty-print date strings.
+How to link to a page with dynamic routes.
+Some useful information on dynamic routes.
